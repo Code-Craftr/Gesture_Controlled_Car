@@ -31,18 +31,6 @@ to another ESP32 mounted on the car.
 
 ---
 
-<h2>🎥 Demo</h2>
-
-<p align="center">
-Add your demo video or GIF here 👇
-</p>
-
-<pre>
-![Demo](demo.gif)
-</pre>
-
----
-
 <h2>⚙️ Working Principle</h2>
 
 <h3>🧤 Transmitter (Hand Controller)</h3>
