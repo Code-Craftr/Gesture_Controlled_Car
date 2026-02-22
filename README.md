@@ -252,22 +252,6 @@ Replace with receiver ESP32 MAC address.
 
 ---
 
-<h2>📸 Project Images</h2>
-
-<p>Add hardware images here.</p>
-
----
-
-<h2>👨‍💻 Author</h2>
-
-<p>
-<b>Manan Kush</b><br>
-B.Tech CSE | Robotics & AI Enthusiast<br>
-Passionate about Embedded Systems, Robotics & Intelligent Machines
-</p>
-
----
-
 <h2>⭐ Support</h2>
 
 <p>If you like this project, please give it a ⭐ on GitHub!</p>
